@@ -1,0 +1,7 @@
+requests
+urllib3
+cryptocode
+colorama
+judyb
+apicolors
+ssl
